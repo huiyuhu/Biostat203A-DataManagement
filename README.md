@@ -1,8 +1,10 @@
 # Biostat203B-DataManagement
-For class UCLA BIOSTAT 203A (Data Management) in fall quarter focuses on programming in R and SAS.
+
+> For class UCLA BIOSTAT 203A (Data Management) in fall quarter focuses on programming in R and SAS.
+> Student Name: Huiyu Hu
 
 ## Final Project: 
-
+`Grade: 97/100`
 #### Part 1: `SAS`
 * Summarize the characteristics of the dataset - Master_Child_SDQ.csv
 *  SAS Macro
@@ -13,3 +15,7 @@ For class UCLA BIOSTAT 203A (Data Management) in fall quarter focuses on program
 #### Part 3: `R`
 * Convert the R code which generates a single simulated data set into an R function that can be repeatedly called.
   
+## Midterm Project: 
+`Grade: 94/100`
+
+* Reading in, manipulating, and summarizing data: Household-Level Demographic Characteristics
