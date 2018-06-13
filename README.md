@@ -1,4 +1,4 @@
-# Biostat203B-DataManagement
+# Biostat203A-DataManagement
 
 > For class UCLA BIOSTAT 203A (Data Management) in fall quarter focuses on programming in R and SAS.
 
